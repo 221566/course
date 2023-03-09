@@ -42,6 +42,6 @@
                              targetPackage="com.course.server.mapper"
                              type="XMLMAPPER"/>
 
-        <table tableName="test"/>
+        <table tableName="chapter"/>
     </context>
 </generatorConfiguration>
